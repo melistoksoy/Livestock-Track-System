@@ -1,0 +1,94 @@
+.loginPage {
+    background-image: url('assets/background.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+
+}
+
+.logo {
+    width: 30%;
+    height: 30%;
+    display: inline;
+    margin-right: 5%;
+
+}
+
+.logo-top {
+    width: 5%;
+    height: 5%;
+    display: inline;
+    margin-right: 2%;
+}
+
+.top-bar {
+    width: 100%;
+    height: 10%;
+}
+
+h2 {
+    display: inline;
+    vertical-align: middle;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.register {
+    background-image: url('assets/background.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+.profile {
+    background-image: url('assets/background-profile.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.hesap {
+    text-align: center;
+}
+
+.fc {
+    color: #1D5B79;
+}
+
+.fc-daygrid-day-number {
+    color:#1D5B79;
+}
+
+.fc a {
+    color: #1D5B79;
+}
+
+.fc-event-time {
+    display: none;
+}
+
+.fc-daygrid-event-dot,
+.fc-event-title {
+    border-color: rgb(91, 91, 91);
+    color: rgb(91, 91, 91);
+}
+
+.fc-event-title {
+    color: rgb(1, 12, 17);
+    font-size: 0.70rem;
+
+}
+.cow {
+    position: absolute;
+    bottom: 0;
+    right:650px;
+
+    transform: translateX(-50%);
+}
+.cow-rev{
+    position: absolute;
+    bottom: 0;
+    right:0;
+    transform: scaleX(-1); 
+}
