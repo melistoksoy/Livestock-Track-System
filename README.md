@@ -4,6 +4,10 @@ This project aimed to achieve basic objectives such as user registration, mainta
 and creating veterinary appointments. During the development of this project, we followed the standard software development steps, including analysis, design,
 implementation, and testing.
 The technologies used in this project are as follows:
+
 -Frontend: React.js
+
 -Back-End: Java Spring Framework
+
 -Database: MySQL
+
